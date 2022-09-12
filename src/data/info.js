@@ -9,11 +9,11 @@ export let navbar = {
 }
 
 export let header = {
-    title: 'One Page Wonder 4Geeks',
-    subtitle: 'Will Rock Your Socks Off',
+    title: 'A Warm Welcome!',
+    subtitle: 'Lorem impsum dolor si amet impsum dolor si amet impsum dolor si amet impsum dolor si amet impsum dolor si amet impsum dolor si amet impsum dolor si amet impsum dolor si amet',
     button: {
         link: '#scroll',
-        label: 'Learn more'
+        label: 'Call to action!'
     }
 }
 
