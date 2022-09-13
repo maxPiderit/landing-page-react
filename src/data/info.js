@@ -28,9 +28,7 @@ export let footer = {
 }
 
 export let cards = [
-    {title:'Card title'},
-    {image:"https://edgewoodreit.com/wp-content/uploads/2018/01/500x325.png"},
-    {description: "Lorem ipsum dolor sit amet, consectuter adipisicing elit. Sapiente esse necessitatibus neque"},
-    {buttonUrl:""},
-    {buttonLabel:"Find Out More"}
+    {title: 'Card title', image: "https://edgewoodreit.com/wp-content/uploads/2018/01/500x325.png", buttonLabel: "Find Out More"},
+    {title: 'Card title', image: "https://edgewoodreit.com/wp-content/uploads/2018/01/500x325.png", buttonLabel: "Hola"},
+    {title: 'Card title', image: "https://edgewoodreit.com/wp-content/uploads/2018/01/500x325.png", buttonLabel: "Find Out More"}
 ]
