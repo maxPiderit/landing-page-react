@@ -12,15 +12,15 @@ const Cards = ({ cards }) => {
                         <div className="col" key={index}>
                             <div className="card">
                                 <img src={card.image} className="card-img-top" alt="" />
-                                <div className="card-body">
+                                <div className="card-body text-center">
                                     <h5 className="card-title">{card.title}</h5>
-                                    <p className="card-text">{card.title}</p>
+                                    <p className="card-text ">{card.description}</p>
                                     <a href={card.buttonUrl} className="btn btn-primary">{card.buttonLabel}</a>
                                 </div>
                             </div>
                         </div>
-                    
-                )})
+                     )
+                })
             }
 
         </div>
