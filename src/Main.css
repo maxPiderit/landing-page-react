@@ -69,3 +69,7 @@ html {
       line-height: 5.1vh;
     }
   }
+
+  .card {
+      width: 18rem;
+  }
