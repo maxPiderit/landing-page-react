@@ -8,7 +8,7 @@ const Header = ({ header }) => { // Destructuring Props (header)
             <div className="masthead-content">
                 <div className="container px-2">
                     <h1 className="masthead-heading">{header.title}</h1>
-                    <h6 className="masthead-subheading">{header.subtitle}</h6>
+                    <p className="masthead-subheading">{header.description}</p>
                     <ButtonLink button={header.button} />
                 </div>
             </div>

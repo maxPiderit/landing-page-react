@@ -62,10 +62,15 @@ html {
       padding-bottom: 4rem;
     }
     header.masthead .masthead-content .masthead-heading {
-      font-size: 7rem;
+      font-size: 5rem;
     }
     header.masthead .masthead-content .masthead-subheading {
       font-size: 2rem;
       line-height: 5.1vh;
     }
+  }
+
+  .card {
+      margin-top: 30px;
+      margin-bottom: 30px;
   }
